@@ -3,10 +3,7 @@ import Authentication from "./components/authentication/authentication.component
 
 import Home from "./routes/home/home.component";
 import Navigation from "./routes/navigation/navigation.component";
-
-const Shop = () => {
-  return <h1> i am the shop page</h1>;
-};
+import Shop from "./routes/shop/shop.component";
 
 const App = () => {
   return (
